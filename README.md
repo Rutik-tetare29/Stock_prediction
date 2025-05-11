@@ -18,6 +18,6 @@ This is an interactive web application built with **Streamlit** that predicts st
 ## 📂 File Structure
 
 ```bash
-├── app.py    # Main Streamlit application
+├── app.py              # Main Streamlit application
 ├── README.md           # Project documentation
 └── stock.csv           # (Optional) Sample stock data CSV file
